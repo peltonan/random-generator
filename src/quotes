@@ -1,0 +1,13 @@
+const quotes = [
+
+    {
+        "quote": "If you don't give your mind and body a break, you'll break. Stop pushing yourself through pain and exhaustion and take care of your needs.",
+        "author": "Lori Deschene",
+    },
+    {
+        "quote": "",
+        "author": "",
+    },
+
+]
+export default quotes
