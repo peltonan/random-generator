@@ -1,19 +1,201 @@
+body {
+  margin: auto;
+  padding: 2rem;
+  background: linear-gradient(#f5f5f5 15%, #2f97c1 110%);
+}
+
+header {
+  height: 100vh;
+}
+
 .projectTitle {
+  font-family: 'Goudy Old Style';
+  font-size: 60px;
+  text-decoration: underline 0.2rem;
   text-align: center;
   margin-top: 4rem;
+  margin-bottom: 4rem;
+  color: #00445F;
 }
 
 .quote {
+  color: #00445F;
+  font-size: 18px;
   text-align: center;
-  margin-top: 4rem;
+  word-wrap: break-word;
+  margin: auto;
+  margin-bottom: 2rem;
+  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 3s;
+  -moz-animation: fadeIn 3s;
+  -o-animation: fadeIn 3s;
+  -ms-animation: fadeIn 3s;
 }
 
-.generateBtn {
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+
+.author {
+  color: #00445F;
+  text-align: center;
+  margin: auto;
+  animation: fadeIn 6s;
+  -webkit-animation: fadeIn 6s;
+  -moz-animation: fadeIn 6s;
+  -o-animation: fadeIn 6s;
+  -ms-animation: fadeIn 6s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#generateBtn {
   margin-top: 4rem;
   text-align: center;
+  display: block;
+
+
+}
+
+button {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  border-radius: 500px;
+  transition-duration: .3s;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 160px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 700;
+  text-align: center;
+  padding: 17px 48px;
+  color: #f5f5f5;
+  background-color: #2f97c1;
+  height: 48px;
+}
+
+button:hover {
+  background-color: #f5f5f5;
+  color: #2f97c1;
 }
 
 footer {
   text-align: right;
-  margin-right: 2rem;
+  margin-right: auto;
+}
+
+.wrapper {
+  background-color: rgb(247, 247, 255);
+  max-height: 1125px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  padding: 4rem;
+  width: 600px;
+  height: 270px;
+  display: grid;
+  border-radius: 10px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s;
+
 }
