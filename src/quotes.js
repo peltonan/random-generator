@@ -104,10 +104,6 @@ export const quotes = [
         author: "Angelica Moone",
     },
     {
-        quote: "Whatever you’re feeling, it will eventually pass. You won’t feel sad forever. At some point, you will feel happy again. You won’t feel anxious forever. In time, you will feel calm again. You don’t have to fight your feelings or feel guilty for having them. You just have to accept them and be good to yourself while you ride this out. Resisting your emotions and shaming yourself will only cause you more pain, and you don’t deserve that. You deserve your own love, acceptance, and compassion.",
-        author: "Lori Deschene",
-    },
-    {
         quote: "Sending love to everyone who’s doing their best to heal from things they don’t discuss.",
         author: "Unknown",
     },
@@ -228,20 +224,12 @@ export const quotes = [
         author: "Unknown",
     },
     {
-        quote: "Have a little faith in your ability to handle whatever’s coming down the road. Believe that you have the strength and resourcefulness required to tackle whatever challenges come your way. And know that you always have the capacity to make the best of anything. Even if you didn’t want it or ask for it, even if seems scary or hard or unfair, you can make something good of any loss or hardship. You can learn from it, grow from it, help others through it, and maybe even thrive because of it. The future is unknown, but you can know this for sure: Whatever’s coming, you got this.",
-        author: "Lori Deschene",
-    },
-    {
         quote: "Stop shrinking to fit places you’ve outgrown.",
         author: "Furaha Joyce",
     },
     {
         quote: "Oh, I don’t try to hide my weird. I like to wave it around. It scares off the boring people and it’s like a beacon for my fellow weirdos.",
         author: "Unknown",
-    },
-    {
-        quote: "Sometimes you simply have to accept that you can’t accomplish as much as you’d like to. If you’re sick, tired, or hurting emotionally, you just have to do what you reasonably you can and then give yourself whatever you need to feel better. You may feel like you’re falling behind, but you’re not failing. You’re doing what you need to do to take good care of yourself, and that’s the most important thing you can do when you’re struggling.",
-        author: "Lori Deschene",
     },
     {
         quote: "I think something people need to understand is that others disliking you is not a bad thing. When you are embodying your true authentic self, it creates fear in people who still operate from the ego. If you want to grow, heal, and evolve you have to let go of wanting to be liked.",
@@ -270,10 +258,6 @@ export const quotes = [
     {
         quote: "Build people up instead of tearing them down, appreciate them instead of taking them for granted, and be kind instead of being insensitive. Let’s focus on compassion and love and let’s make the world a better place.",
         author: "Rubyanne",
-    },
-    {
-        quote: "My home will be a home with no loud anger, no explosive rage, no slamming doors or breaking glass, no name calling, shaming, or blackmail. My home will be gentle, it will be warm. It will keep my loved ones safe. No fear, no hurt, and no worries. I may come from a broken and twisted place, but I will build something whole and safe. I’ll sing in the shower again, cook with a smile, and dance in all the rooms. I will heal.",
-        author: "Unknown",
     },
     {
         quote: "Be the person you needed when you were younger.",
@@ -356,14 +340,6 @@ export const quotes = [
         author: "S.C. Lourie",
     },
     {
-        quote: "Some of the kindest souls I know have lived in a world that was not so kind to them. Some of the best human beings I know have been through so much at the hands of others, and they still love deeply, they still care. Sometimes, it’s the people who have been hurt the most who refuse to be hardened in this world, because they would never want to make another person feel the same way they have felt. If that isn’t something to be in awe of, I don’t know what is.",
-        author: "Bianca Sparacino",
-    },
-    {
-        quote: "It is incredibly important to differentiate between overthinking and deep thinking. Deep thinking is analyzing information for the purpose of learning and moving forward, building your brain, reaching solutions and understanding difficult concepts. Sometimes, this means that you will need to think deeply about an issue you are facing in order to overcome it, but this is different from worrying about the problem… it’s very deliberate, controlled, intentional, systematic, and rational. It is not emotionally-driven, chaotic, illogical, assumptive, and it is not driven by a sense of victimization. Deep thinking looks for a solution and closure, whereas overthinking is chaotic, with no solution or end in sight.",
-        author: "Caroline Leaf",
-    },
-    {
         quote: "I can’t emphasize enough the importance of solo adventures. Everything from eating lunch by yourself to strolling in the park alone all help to shape your sense of independence. If you’re never by yourself how will you ever know yourself?",
         author: "Unknown",
     },
@@ -411,5 +387,373 @@ export const quotes = [
         quote: "Don’t let this silly world trick you into starving your soul for material things. Cause someday you’re gonna be sitting out under the sun and realize how little you actually need to be truly happy.",
         author: "Brooke Hampton",
     },
+    {
+        quote: "If you made a mistake, apologize. If you are thankful, say it. If you are confused, ask questions. If you learn something, teach it. If you are stuck, ask for help. If you are wrong, admit it. If you can unselfishly give, give. If you love someone, tell them, now.",
+        author: "Unknown",
+    },
+    {
+        quote: "When a flower doesn’t bloom, you fix the environment it grows in, not the flower.",
+        author: "Alexander Den Heijer",
+    },
+    {
+        quote: "You are being presented with two choices: evolve or repeat.",
+        author: "Unknown",
+    },
+    {
+        quote: "Sometimes we need someone to simply be there, not to fix anything or do anything in particular, but just to let us feel we are supported and cared about.",
+        author: "Unknown",
+    },
+    {
+        quote: "You’re not too sensitive. You’re not overreacting. If it hurts you, it hurts you.",
+        author: "Unknown",
+    },
+    {
+        quote: "The biggest lie we’re told is ‘Be with someone who makes you happy.’ The truth is, happiness is something you create on your own. Be with someone who adds to it.",
+        author: "Unknown",
+    },
+    {
+        quote: "Some people could be given an entire field of roses and only see the thorns in it. Others could be given a single weed and only see the wildflower in it. Perception is a key component to gratitude. And gratitude a key component to joy.",
+        author: "Amy Weatherly",
+    },
+    {
+        quote: "When someone comes looking for the old you, pulling triggers, but cannot find you, that’s healing.",
+        author: "Unknown",
+    },
+    {
+        quote: "You will never forget a person who came to you with a torch in the dark.",
+        author: "M. Rose",
+    },
+    {
+        quote: "Don’t wait til you reach your goal to be proud of yourself. Be proud of every step you take.",
+        author: "Karen Salmansohn",
+    },
+    {
+        quote: "And if today, all you did was hold yourself together, I am proud of you.",
+        author: "Unknown",
+    },
+    {
+        quote: "I am not impressed by money, status, or job title. I’m impressed by the way you treat other human beings.",
+        author: "Unknown",
+    },
+    {
+        quote: "Sometimes you just need to hear how much you mean to someone.",
+        author: "Unknown",
+    },
+    {
+        quote: "It’s the small habits. How you spend your mornings. How you talk to yourself. What you read and what you watch. Who you share your energy with. Who has access to you. That will change your life.",
+        author: "Michael Tonge",
+    },
+    {
+        quote: "Your beliefs don’t make you a better person. Your behavior does.",
+        author: "Sukhraj Dhillon",
+    },
+    {
+        quote: "Make it a habit to do nice things for people who’ll never find out.",
+        author: "Unknown",
+    },
+    {
+        quote: "The broken will always be able to love harder than most. Once you’ve been in the dark, you learn to appreciate everything that shines.",
+        author: "Zachry K. Douglas",
+    },
+    {
+        quote: "You did the best you could with the knowledge you had in that moment. It’s easier to look back at an event and see a better choice or pathway because we already learned from our experience. Hindsight happens after the lesson, so we can’t condemn ourselves for not knowing the lesson before we learned it.",
+        author: "Emily Maroutian",
+    },
+    {
+        quote: "Stick with people who pull the magic out of you, not the madness.",
+        author: "Unknown",
+    },
+    {
+        quote: "Divorce is okay. Breaking up is okay. Starting over is okay. Moving on is okay. Saying no is okay. Being alone is okay. What is not okay is staying somewhere where you aren’t happy, valued, or appreciated, that is not okay.",
+        author: "Unknown",
+    },
+    {
+        quote: "I don’t want to suffer, so excuse me if I excuse myself from situations that suck all of my energy.",
+        author: "Sylvester McNutt",
+    },
+    {
+        quote: "We didn’t understand as children that our parents still had work to do on themselves.",
+        author: "Marym Hasnaa",
+    },
+    {
+        quote: "I have a limited amount of time left on this planet, and I’m not gonna spend it being a watered down version of myself just so people can like me.",
+        author: "Bree Christina",
+    },
+    {
+        quote: "I am an old soul. I love genuine kindness. I love compassion. I love poetry. I love soul connection. I love old books. I love deep conversations. I love depth. I love rawness.",
+        author: "Unknown",
+    },
+    {
+        quote: "When people set boundaries with you, it’s their attempt to continue the relationship with you. It’s not an attempt to hurt you.",
+        author: "Elizabeth Earnshaw",
+    },
+    {
+        quote: "You deserve happiness even if you’re not used to it.",
+        author: "Unknown",
+    },
+    {
+        quote: "One day you will your story of how you’ve overcome what you’re going through now and it will become part of someone’s survival guide.",
+        author: "Brené Brown",
+    },
+    {
+        quote: "Some of the most generous people have no money. Some of the wisest people have no education. Some of the kindest people were hurt the most.",
+        author: "Steve Wentworth",
+    },
+    {
+        quote: "I can respect any person who can put their ego aside and say, ‘I made a mistake. I apologize, and I’m correcting the behavior.",
+        author: "Sylvester McNutt",
+    },
+    {
+        quote: "If you avoid conflict to keep the peace you start a war inside yourself.",
+        author: "Cheryl Richardson",
+    },
+    {
+        quote: "Be like a pineapple. Stand tall. Wear a crown. Be sweet on the inside.",
+        author: "Kat Gaskin",
+    },
+    {
+        quote: "Heal, so when someone tells you they love you, you allow yourself to believe them.",
+        author: "Unknown",
+    },
+    {
+        quote: "Sometimes deciding who you are is deciding who you’ll never be again.",
+        author: "Unknown",
+    },
+    {
+        quote: "Let’s heal so we can stop accidentally hurting people we want to love because we are projecting our own wounds on them onto them.",
+        author: "Steph Feels",
+    },
+    {
+        quote: "Do yourself a favor and take mixed signals as a no.",
+        author: "Didi Mphehle",
+    },
+    {
+        quote: "It’s important to make friendships that are deeper than gossiping, drinking, and hanging out. Make friends who you can have deep conversations with. Make friends you can cry with. Make friends who support your life goals and believe in you.",
+        author: "Unknown",
+    },
+    {
+        quote: "Stay in the moment. The practice of staying present will heal you. Obsessing about how the future will turn out creates anxiety. Replaying broken scenarios from the past causes anger and sadness. Stay here, in this moment.",
+        author: "Sylvester McNutt",
+    },
+    {
+        quote: "Your circle should want to see you win. Your circle should clap the loudest when you have good news. If they don’t, get a new circle.",
+        author: "Wesley Snipes",
+    },
+    {
+        quote: "Learn to be okay with people not knowing your side of the story. You have nothing to prove to anyone.",
+        author: "Unknown",
+    },
+    {
+        quote: "You can’t heal the people you love. You can’t make choices for them. You can’t rescue them. You can promise that they won’t journey alone. You can loan them your map. But this trip is theirs.",
+        author: "Laura Jean Truman",
+    },
+    {
+        quote: "I have fought a thousand battles, but I am still standing. I have cried a thousand tears, but I am still smiling. I have been broken, betrayed, abandoned, rejected, but I am still walking proud. I smile. I laugh. I live life without fear and when I love, I love hard. I am humble. I am beautiful. I am real. I am me.",
+        author: "Unknown",
+    },
+    {
+        quote: "Standing up for yourself doesn’t make you argumentative. Sharing your feelings doesn’t make you oversensitive. And saying no doesn’t make you uncaring or selfish. If someone won’t respect your feelings, needs, and boundaries, the problem isn’t you; it’s them.",
+        author: "Lori Deschene",
+    },
+    {
+        quote: "You can’t change the people around you, but you can change the people you choose to be around.",
+        author: "Unknown",
+    },
+    {
+        quote: "You’re too sensitive = You won’t let me disrespect you.",
+        author: "Lucha Kingpin",
+    },
+    {
+        quote: "You don’t need a ‘perfect relationship.’ All you need is someone who loves your weirdness, wants to spend time with you, and respects you.",
+        author: "Unknown",
+    },
+    {
+        quote: "So many people from your past know a version of you that doesn’t exist anymore.",
+        author: "Unknown",
+    },
+    {
+        quote: "When it’s time for something new, you will feel it. You will feel a desire to let go, to shed layers, to move, to re-create. You will know because there will be subtle shifts all around you. You will release the old because you are really clearing the path for what’s ahead. Trust the process.",
+        author: "Brianna Wiest",
+    },
+    {
+        quote: "I hope you know you’re capable and brave and significant, even when it feels like you’re not.",
+        author: "Unknown",
+    },
+    {
+        quote: "What does it mean to hold space for another person? It means that we are willing to walk alongside another person in whatever journey they’re on without judging them, making them feel inadequate, trying to fix them, or trying to impact the outcome. When we hold space for other people, we open our hearts, offer unconditional support, and let go of judgment and control.",
+        author: "Heather Plett",
+    },
+    {
+        quote: "Lack of communication ruins everything, because instead of knowing how the other person is feeling, we just assume.",
+        author: "Unknown",
+    },
+    {
+        quote: "When trauma has shaped you, try not to confuse who you had to become with who you can be.",
+        author: "Thema Bryant-Davis",
+    },
+
+    {
+        quote: "When your bones are tired of carrying everyone else’s problems, and when your lungs are tired of breathing life into other people, return back home to yourself for a while. Shift your energy back inwards. Reunite with peace again.",
+        author: "Billy Chapata",
+    },
+    {
+        quote: "Agreeing to things just to keep the peace is actually a trauma response. When you do this you’re disrespecting your boundaries. No more making yourself uncomfortable for others to feel comfortable. You have control now. You run your life. Take up space and use your voice.",
+        author: "Dj Love Light",
+    },
+    {
+        quote: "You’re not too old, and it’s not too late.",
+        author: "Unknown",
+    },
+    {
+        quote: "I spend an insane amount of time wondering if I’m doing it right. At some point I just remind myself that I’m doing my best. That is enough.",
+        author: "Myleik Teele",
+    },
+    {
+        quote: "7.5 billion people in this world and you let the opinion of one stop your good energy? You’re better than that.",
+        author: "Eric Thomas",
+    },
+
+    {
+        quote: "If you are reading this, I wish you a day filled with kind people, lots of smiles, and unexpected blessings.",
+        author: "Unknown",
+    },
+
+    {
+        quote: "You’re right, I’m more than a little weird and a bit awkward. No, I don’t fit in and most people don’t understand me. But at least I’m being real and I think the world needs more people who are brave enough to be real.",
+        author: "Brooke Hampton",
+    },
+    {
+        quote: "It wasn’t the trauma that made you strong, kinder, and more compassionate. It’s how you handled it. That credit is yours.",
+        author: "Unknown",
+    },
+    {
+        quote: "The most powerful thing you can do right now is be patient while things are unfolding for you.",
+        author: "Idil Ahmed",
+    },
+    {
+        quote: "Dear self: Don’t get so worked up over things you can’t change or people you can’t change. It’s not worth the anger buildup or the heartache. Control only what you can. Let go.",
+        author: "Unknown",
+    },
+    {
+        quote: "When we allow ourselves to be vulnerable, we are not pretending, we are not hiding—we are simply present with whatever is going on inside us. Ironically, it is this very feeling of authenticity that draws people to us, not the brittle effort of perfectionism.",
+        author: "Maureen Cooper",
+    },
+    {
+        quote: "Relax wild one. It’s not your job to be everything everyone needs, and you don’t have to be impressive to be loved. Stop trying so hard. Just show up and be real with the world. That is enough.",
+        author: "Brooke Hampton",
+    },
+    {
+        quote: "Being called weird is like being called Limited Edition. Meaning you’re something people don’t see that often. Remember that.",
+        author: "Ashley Purdy",
+    },
+    {
+        quote: "People don’t always say I love you. Sometimes it sounds like: Be safe. Did you eat? Call me when you get home. I made you this.",
+        author: "Unknown",
+    },
+    {
+        quote: "It is not always possible to know why people act the way they do, but I can guarantee that you will feel better if you give people the benefit of the doubt more often than not. When in doubt, be kind. It doesn’t cost anything to be kind.",
+        author: "Renée Suzanne",
+    },
+    {
+        quote: "The true mark of maturity is when somebody hurts you and you try to understand their situation instead of trying to hurt them back.",
+        author: "Unknown",
+    },
+    {
+        quote: "The strongest people are the ones who are still kind after the world tore them apart.",
+        author: "Raven Emotion",
+    },
+    {
+        quote: "You gotta look for the good in the bad, the happy in the sad, the gain in your pain, and what makes you grateful not hateful.",
+        author: "Karen Salmansohn",
+    },
+    {
+        quote: "We need more people who are willing to say, ‘I’ve been there, and I’m here. You can always talk to me without judgment.’",
+        author: "Amy Williams",
+    },
+    {
+        quote: "Know that this, too, will pass. Tomorrow you will wake up with 232 billion new cells in your body. That alone is reason for hope.",
+        author: "Suzanne Falter",
+    },
+    {
+        quote: "Spend time with people who are good for your mental health.",
+        author: "Unknown",
+    },
+    {
+        quote: "Never underestimate the power of a hot shower, clean sheets, and a long nap.",
+        author: "Unknown",
+    },
+    {
+        quote: "People with weird personalities make the best friends. Being able to be openly weird actually relieves stress and anxiety.",
+        author: "Unknown",
+    },
+    {
+        quote: "We can’t always choose the music life plays for us, but we can choose how we dance to it.",
+        author: "Unknown",
+    },
+    {
+        quote: "You either like me or you don’t. It took me twenty-something years to learn how to love myself. I don’t have that kinda time to convince somebody else.",
+        author: "Daniel Franzese",
+    },
+    {
+        quote: "Just because you’re taking longer than others doesn’t mean you’re a failure. Keep going.",
+        author: "Unknown",
+    },
+    {
+        quote: "Life changes. You lose love. You lose friends. You lose pieces of yourself that you never imagined would be gone. And then, without you even realizing it, these pieces come back. New love enters. Better friends come along. And a stronger, wiser you is staring back in the mirror.",
+        author: "Preetham Mohanty",
+    },
+    {
+        quote: "Look at your daily habits and ask yourself if they are causing you to evolve or revolve. Are you moving forward, or just moving in circles?",
+        author: "Unknown",
+    },
+    {
+        quote: "If you understood how frequently people cope by projecting, you’d learn to take absolutely nothing personally.",
+        author: "Octavia Butler",
+    },
+    {
+        quote: "When other people treat you poorly, keep being you. Don’t ever let someone else’s bitterness change the person you are.",
+        author: "Unknown",
+    },
+    {
+        quote: "Sometimes I punish myself for having unproductive days, but then I’m reminded that I’m only human and breaks are necessary. Don’t feel guilty for putting something on pause temporarily while you reconnect with yourself and find a balance. Remember, your mental health comes first.",
+        author: "Meggan Roxanne",
+    },
+    {
+        quote: "Every time I judge someone else, I reveal an unhealed part of myself.",
+        author: "Joy Marino",
+    },
+    {
+        quote: "Empathy has no script. There is no right way or wrong way to do it. It’s simply listening, holding space, withholding judgment, emotionally connecting, and communicating that incredibly healing message of ‘You’re not alone.’",
+        author: "Brené Brown",
+    },
+    {
+        quote: "The biggest lesson for me this year has been ‘just keep going.’ Lost everything? Just keep going. Don’t know what you’re doing? Just keep going. $0.88 in the bank? Just keep going. People played you? Just keep going. No obstacle has been able to crush me. I keep going.",
+        author: "Asamoah Evans",
+    },
+    {
+        quote: "Sometimes everything hits you all at once. You lose a relationship, change jobs, old friends go and new ones come. It’s up one day and down the next. You have it all together on Monday and by Thursday you don’t have a clue. Life is one big wave and all we can do is flow, grow, and adapt.",
+        author: "Sylvester McNutt",
+    },
+    {
+        quote: "Some people aren’t good at asking for help because they’re so used to being ‘the helper.’ Throughout their life they’ve experienced an unbalanced give and take, so their instinct is usually ‘I’ll figure it out on my own.’ The self-reliance is all they’ve ever known.",
+        author: "Toni Tone",
+    },
+    {
+        quote: "Love yourself a little extra right now. You’re learning, growing, and discovering yourself all at once. It’s about to get magical for you.",
+        author: "Idil Ahmed",
+    },
+    {
+        quote: "A lot of things broke my heart but fixed my vision.",
+        author: "Unknown",
+    },
+    {
+        quote: "Literally every person is messed up, so pick your favorite train wreck and roll with it.",
+        author: "Hannah Marcbach",
+    },
+    {
+        quote: "Your greatest test will be how you handle people who mistreated you.",
+        author: "Unknown",
+    },
+
 
 ]

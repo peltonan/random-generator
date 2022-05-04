@@ -180,7 +180,6 @@ button:hover {
 
 footer {
   text-align: right;
-  margin-right: auto;
 }
 
 .wrapper {
@@ -197,5 +196,81 @@ footer {
   border-radius: 10px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
   transition: all 0.2s;
+  align-content: center
+}
 
+@media only screen and (max-width: 800px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  header {
+    margin: auto;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .wrapper {
+    margin: auto;
+    padding: 4rem;
+    width: 170px;
+
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .author {
+    font-size: 12px;
+    padding-top: 2rem;
+
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .quote {
+    font-size: 14px;
+    padding: 0;
+    justify-content: center;
+    margin: auto;
+  }
+
+}
+
+@media only screen and (max-width: 800px) {
+  .projectTitle {
+    font-size: 35px;
+    margin: auto;
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  footer {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .everything {
+    align-items: center;
+  }
+}
+
+@media only screen and (max-height: 667px) {
+  .wrapper {
+    max-height: 300px;
+    margin: auto;
+    padding: 4rem;
+  }
+}
+
+@media only screen and (max-height: 667px) {
+  #generateBtn {
+    margin-top: 3rem;
+  }
 }

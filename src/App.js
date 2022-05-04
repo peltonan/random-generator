@@ -21,21 +21,26 @@ function App() {
   return (
 
     <div className="App">
-      <header className="header">
+      <div className="everything">
+        <header className="header">
 
-        <h1 className="projectTitle">Feel Better Quotes</h1>
-        <section key={key} className="wrapper">
-          <p className="quote">"{quote}"</p>
-          <p className="author">~{author}</p>
-        </section>
-        <div id="generateBtn">
-          <button onClick={btnClick}>Generate</button>
+          <h1 className="projectTitle">Feel Better Quotes</h1>
+          <section key={key} className="wrapper">
+            <p className="quote">"{quote}"</p>
+            <p className="author">~{author}</p>
+          </section>
+          <div id="generateBtn">
+            <button onClick={btnClick}>Generate</button>
+          </div>
+
+        </header>
+        <div>
+          <footer>Created by A. Peltonen</footer>
         </div>
-
-      </header>
-      <footer>Created by A. Peltonen</footer>
+      </div>
     </div>
   );
+
 }
 
 export default App;
