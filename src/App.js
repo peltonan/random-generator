@@ -1,8 +1,13 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import { quotes } from './quotes.js'
 
 function App() {
+
+  useEffect(() => {
+    document.title = "Feel Better Quotes"
+  }, []);
+
   const [quote, setQuote] = useState(quotes[0].quote)
   const [author, setAuthor] = useState(quotes[0].author)
   const [key, setKey] = useState(0)
