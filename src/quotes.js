@@ -564,7 +564,7 @@ export const quotes = [
         author: "Lucha Kingpin",
     },
     {
-        quote: "You don't need a ‘perfect relationship.' All you need is someone who loves your weirdness, wants to spend time with you, and respects you.",
+        quote: "You don't need a perfect relationship.' All you need is someone who loves your weirdness, wants to spend time with you, and respects you.",
         author: "Unknown",
     },
     {
@@ -667,7 +667,7 @@ export const quotes = [
         author: "Karen Salmansohn",
     },
     {
-        quote: "We need more people who are willing to say, ‘I've been there, and I'm here. You can always talk to me without judgment.'",
+        quote: "We need more people who are willing to say, I've been there, and I'm here. You can always talk to me without judgment.'",
         author: "Amy Williams",
     },
     {
@@ -727,7 +727,7 @@ export const quotes = [
         author: "Brené Brown",
     },
     {
-        quote: "The biggest lesson for me this year has been ‘just keep going.' Lost everything? Just keep going. Don't know what you're doing? Just keep going. $0.88 in the bank? Just keep going. People played you? Just keep going. No obstacle has been able to crush me. I keep going.",
+        quote: "The biggest lesson for me this year has been just keep going.' Lost everything? Just keep going. Don't know what you're doing? Just keep going. $0.88 in the bank? Just keep going. People played you? Just keep going. No obstacle has been able to crush me. I keep going.",
         author: "Asamoah Evans",
     },
     {
@@ -735,7 +735,7 @@ export const quotes = [
         author: "Sylvester McNutt",
     },
     {
-        quote: "Some people aren't good at asking for help because they're so used to being ‘the helper.' Throughout their life they've experienced an unbalanced give and take, so their instinct is usually ‘I'll figure it out on my own.' The self-reliance is all they've ever known.",
+        quote: "Some people aren't good at asking for help because they're so used to being the helper.' Throughout their life they've experienced an unbalanced give and take, so their instinct is usually ‘I'll figure it out on my own.' The self-reliance is all they've ever known.",
         author: "Toni Tone",
     },
     {
